@@ -1,0 +1,1 @@
+// Dummy Kompakkt Viewer JS (replace with real kompakkt.js from dist/)
